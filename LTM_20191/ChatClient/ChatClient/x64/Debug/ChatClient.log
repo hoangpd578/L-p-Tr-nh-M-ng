@@ -1,0 +1,6 @@
+﻿  ChatClient.cpp
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatclient\chatclient\chatclient.cpp(218): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatclient\chatclient\chatclient.cpp(258): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatclient\chatclient\chatclient.cpp(264): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatclient\chatclient\chatclient.cpp(275): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatClient.vcxproj -> C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\ChatClient\x64\Debug\ChatClient.exe

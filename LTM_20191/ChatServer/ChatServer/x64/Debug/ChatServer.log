@@ -1,0 +1,14 @@
+﻿  ChatServer.cpp
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(215): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(222): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(235): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(241): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(247): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(284): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(291): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(303): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(314): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(319): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(347): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\chatserver\chatserver\chatserver.cpp(423): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatServer.vcxproj -> C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\ChatServer\x64\Debug\ChatServer.exe

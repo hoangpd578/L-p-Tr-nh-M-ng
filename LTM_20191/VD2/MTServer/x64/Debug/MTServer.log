@@ -1,0 +1,11 @@
+﻿  MTServer.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(30): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(30): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(30): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(30): note: consider using '%I64d' in the format string
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(49): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(49): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(49): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(49): note: consider using '%I64d' in the format string
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtserver\mtserver.cpp(53): warning C4715: 'ClientThread': not all control paths return a value
+  MTServer.vcxproj -> C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\x64\Debug\MTServer.exe

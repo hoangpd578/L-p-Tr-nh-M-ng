@@ -1,0 +1,9 @@
+﻿  TelnetServer.cpp
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(35): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(35): note: consider using '%lld' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(35): note: consider using '%Id' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(35): note: consider using '%I64d' in the format string
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\telnetserver\telnetserver.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TelnetServer.vcxproj -> C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\VD3\x64\Debug\TelnetServer.exe

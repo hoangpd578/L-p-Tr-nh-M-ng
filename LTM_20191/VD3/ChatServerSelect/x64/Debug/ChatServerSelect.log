@@ -1,0 +1,17 @@
+﻿  ChatServerSelect.cpp
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(68): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(68): note: consider using '%lld' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(68): note: consider using '%Id' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(68): note: consider using '%I64d' in the format string
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(85): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(85): note: consider using '%lld' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(85): note: consider using '%Id' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(85): note: consider using '%I64d' in the format string
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(139): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(150): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\chatserverselect\chatserverselect.cpp(155): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatServerSelect.vcxproj -> C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\VD3\x64\Debug\ChatServerSelect.exe

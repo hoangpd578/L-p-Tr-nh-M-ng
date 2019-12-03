@@ -1,0 +1,13 @@
+﻿  CharServerMT.cpp
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(36): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(36): note: consider using '%lld' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(36): note: consider using '%Id' in the format string
+  c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(36): note: consider using '%I64d' in the format string
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\source\workspaces\works\networkprogramming\ltm_20191\vd3\charservermt\charservermt.cpp(135): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CharServerMT.vcxproj -> C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\VD3\x64\Debug\CharServerMT.exe

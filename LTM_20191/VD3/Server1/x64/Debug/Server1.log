@@ -1,0 +1,11 @@
+﻿Server1.obj : error LNK2019: unresolved external symbol __WSAFDIsSet referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_accept referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_bind referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_htonl referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_listen referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_select referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+Server1.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+C:\Users\lebavui\Source\Workspaces\Works\NetworkProgramming\LTM_20191\VD3\x64\Debug\Server1.exe : fatal error LNK1120: 10 unresolved externals

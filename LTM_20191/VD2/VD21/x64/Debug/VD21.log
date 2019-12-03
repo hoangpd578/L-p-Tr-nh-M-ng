@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  VD21.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(35): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(35): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(35): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(35): note: consider using '%I64d' in the format string
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(44): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(44): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(50): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(50): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(50): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(50): note: consider using '%I64d' in the format string
+VD21.obj : error LNK2019: unresolved external symbol __imp_accept referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_bind referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_htonl referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_listen referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+VD21.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\x64\Debug\VD21.exe : fatal error LNK1120: 8 unresolved externals

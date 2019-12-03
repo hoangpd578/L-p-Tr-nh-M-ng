@@ -1,0 +1,21 @@
+﻿  pch.cpp
+  VD22.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(51): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(51): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(51): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(51): note: consider using '%I64d' in the format string
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(83): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(83): note: consider using '%lld' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(83): note: consider using '%Id' in the format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd22\vd22.cpp(83): note: consider using '%I64d' in the format string
+VD22.obj : error LNK2019: unresolved external symbol __imp_accept referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_bind referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_ioctlsocket referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_htonl referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_htons referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_listen referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_recv referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_socket referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+VD22.obj : error LNK2019: unresolved external symbol __imp_WSAGetLastError referenced in function main
+C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\x64\Debug\VD22.exe : fatal error LNK1120: 10 unresolved externals

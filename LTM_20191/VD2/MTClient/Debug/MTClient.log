@@ -1,0 +1,3 @@
+﻿  MTClient.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtclient\mtclient.cpp(55): warning C4715: 'ReceiverThread': not all control paths return a value
+  MTClient.vcxproj -> C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\Debug\MTClient.exe

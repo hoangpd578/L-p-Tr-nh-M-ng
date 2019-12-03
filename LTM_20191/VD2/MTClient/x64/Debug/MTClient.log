@@ -1,0 +1,4 @@
+﻿  MTClient.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtclient\mtclient.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\mtclient\mtclient.cpp(61): warning C4715: 'ReceiverThread': not all control paths return a value
+  MTClient.vcxproj -> C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\x64\Debug\MTClient.exe

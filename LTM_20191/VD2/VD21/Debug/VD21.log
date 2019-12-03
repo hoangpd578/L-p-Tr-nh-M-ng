@@ -1,0 +1,4 @@
+﻿  VD21.cpp
+c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(44): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\lebavui\dropbox\works\networkprogramming\ltm_20191\vd2\vd21\vd21.cpp(44): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  VD21.vcxproj -> C:\Users\lebavui\Dropbox\Works\NetworkProgramming\LTM_20191\VD2\Debug\VD21.exe
